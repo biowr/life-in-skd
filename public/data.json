@@ -45,8 +45,18 @@
                 "link": "https://sourl.cn/Pe3nba",
                 "description": "快看看你想看的书它有没有、在哪找"
             },
+            
+            {
+                "name": "知网校外登陆",
+                "link": "https://sourl.cn/Kiqj8X",
+                "description": "写论文找他！"
+            },
            
-           
+           {
+                "name": "SCI-HUB",
+                "link": "hhttps://sourl.cn/Kxkqm6",
+                "description": "英文文献下载神器"
+            },
             
         ]
     },
@@ -69,6 +79,12 @@
                 "name": "正版软件",
                 "link": "http://210.29.7.181/index.aspx",
                 "description": "学校购买的常用正版系统和软件，校内打开"
+            },
+            
+            {
+                "name": "科研专业软件",
+                "link": "https://biowr.gitee.io/tools.html",
+                "description": "Adobe 全家桶，文献管理工具呀"
             },
           
             {

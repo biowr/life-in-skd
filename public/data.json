@@ -12,12 +12,8 @@
                 "name": "上网认证",
                 "link": "http://192.168.100.163/",
                 "description": "初始账户学号，初始密码身份证后六位"
-            },
-            {
-                "name": "公众号目录",
-                "link": "https://www.yuque.com/ff282l/gm8kgc/chfp1l",
-                "description": "哦我的上帝啊，你毕业都不一定关注全了"
             }
+            
         ]
     },
     {
@@ -88,7 +84,7 @@
             
             {
                 "name": "科研专业软件",
-                "link": "https://biowr.gitee.io/tools.html",
+                "link": "https://biowr.gitee.io/pages/tools.html",
                 "description": "Adobe 全家桶，文献管理工具呀"
             },
           
@@ -114,11 +110,7 @@
         "title": "学生项目",
         "items": [
            
-            {
-                "name": "课程评估自动化",
-                "link": "https://fuck.idealclover.cn/",
-                "description": "每学期的课程评估简直噩梦"
-            }
+            
         ]
     },
     {
